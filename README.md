@@ -61,6 +61,8 @@ This project builds a full machine learning pipeline to predict the **direction 
 ---
 
 ## 📁 Project Structure
+
+---
 stock-market-direction-prediction/ 
 ├── data/ 
 │ ├── raw/
