@@ -1,5 +1,3 @@
-# Create a README.md file with project documentation content
-readme_content = """
 # 📈 Stock Market Direction Prediction
 
 This project builds a full machine learning pipeline to predict the **direction of the S&P 500 index** using historical price and volume data. The project demonstrates end-to-end practices in data preparation, feature engineering, model selection, backtesting, evaluation, and modular ML pipeline construction.
