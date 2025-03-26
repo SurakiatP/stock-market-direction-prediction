@@ -62,7 +62,7 @@ This project builds a full machine learning pipeline to predict the **direction 
 
 ## 📁 Project Structure
 
----
+```
 stock-market-direction-prediction/ 
 ├── data/ 
 │ ├── raw/
@@ -90,6 +90,7 @@ stock-market-direction-prediction/
 ├── generate_model_performance.py
 ├── requirments.txt
 └── README.md
+```
 
 ---
 
